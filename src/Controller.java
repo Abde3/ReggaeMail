@@ -13,6 +13,7 @@ import condition.*;
 public class Controller {
 	static User u;
 	
+	
 	public static void main(String[] args) throws MessagingException, IOException, ParseException {
 		System.out.println("Welcome to the ReggaeMail experience.\n");
 		
